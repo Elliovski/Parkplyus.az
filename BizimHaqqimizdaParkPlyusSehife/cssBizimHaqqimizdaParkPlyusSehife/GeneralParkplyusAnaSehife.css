@@ -1,0 +1,16 @@
+body {
+    /* Delete height later */
+    height:100%;
+    /* Font Family yukle*/
+    font-family: Noto , sans-serif;
+    font-weight: 400px;
+    position: relative;
+    text-decoration: none;
+}
+main {
+    
+}
+a {
+    text-decoration: none;
+    text-decoration-line: none;
+}

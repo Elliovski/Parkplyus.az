@@ -1,0 +1,7 @@
+.Sections-All-DIV{
+    background-color: rgb(137, 251, 251);
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}

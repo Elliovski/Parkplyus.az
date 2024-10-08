@@ -1,0 +1,20 @@
+body {
+    /* Delete height later */
+    height:100%;
+    /* Font Family yukle*/
+    font-family: Noto , sans-serif;
+    font-weight: 400px;
+    position: relative;
+    text-decoration: none;
+}
+main {
+    display: grid;
+    grid-template-columns: 0.245fr 0.8fr;
+    gap: 10px;
+    
+    
+}
+a {
+    text-decoration: none;
+    text-decoration-line: none;
+}

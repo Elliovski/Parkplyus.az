@@ -1,0 +1,225 @@
+HEADER {
+    z-index: 4;
+    height: 80px;
+}
+.Header-fixed {
+    position: fixed;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 80px;
+    width: 100%;
+    z-index: 4;
+    background-color: white;
+}
+.All-butons-DIV {
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    width: 1200px;
+    
+}
+.Left-buttons-DIv{}
+.Ana-sehife-link img {
+    width: 56px;
+    height: 60px;
+}
+.Middle-buttons-DIv{
+    display: grid;
+    grid-auto-flow: column;
+    gap: 0px;
+}
+.OneMiddleButton-Div{
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: auto;
+    height: 46px;
+    padding: 5px 10px 45px 10px;
+    cursor: pointer;
+}
+.pOfOneMiddleButton-Div {
+    height: 100%;
+    cursor: pointer;
+    display: grid;
+
+    
+}
+.pOfOneMiddleButton {
+    display: flex;
+    align-items: center;
+    
+    
+
+    margin: 0px;
+    height: 90px;
+    font-size: 18px;
+    font-weight: 400px;
+    color: rgb(80 , 80 , 80 );
+    transition-duration: 0.3s;
+    transition-property: color;
+    transition-timing-function: ease;    
+}
+.pOfOneMiddleButton:hover{
+    color: rgb(160, 160, 160);
+    transition-duration: 0.3s;
+    transition-property: all;
+    transition-timing-function: ease;    
+}
+.DropdownMenu {
+    height: 100%;
+}
+.pOfOneMiddleButton-Div:hover .SubMenu1All,
+.DropdownMenu:hover .SubMenu1All{
+    visibility: visible;
+    width: auto;
+    height: auto;
+    top: 88px;
+    
+    transition-duration: 0.3s;
+    opacity: 100%;
+    z-index: 1;
+    
+    
+}
+.SubMenu1All {
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0%;
+    top: 98px;
+    box-shadow:rgba(212, 212, 212, 0.9) 0px 0px 10px 0.2px ;
+    z-index: 2;
+    visibility: hidden;
+    background-color: white;
+    font-size: 0px;
+    font-weight: 0px;
+    transition: 0.3s;
+    
+}
+.oneSubMenu1 {
+    
+    display: flex;
+    position: relative;
+    /*border: 1px solid;*/
+    
+
+    position: static;
+    width: 250px;
+    height: 31px;
+    padding: 10px 10px 10px 10px;
+    
+}
+
+.oneSubMenu1-P-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.oneSubMenu1-P{
+    font-size: 14px;
+    font-weight: 400px;
+    color: rgb(80 , 80 , 80);
+    transition-duration: 0.3s;
+    margin: 0px;
+}
+.oneSubMenu1:hover .oneSubMenu1-P {
+    color: rgb(164, 164, 164);
+    transition-duration: 0.3s;
+}
+
+
+.oneSubMenu1:hover .SubMenu2All{
+    position: fixed;
+    
+    margin-left: 260px;
+    opacity: 100%;
+    z-index: 2;
+    
+    transition-duration: 0.3s;
+    
+}
+
+
+.SubMenu2All {
+    position: fixed;
+    
+    display: flex;
+    flex-direction: column;
+    margin-top: -10px;
+    margin-left: 208px;
+    padding: 10px 10px 10px 10px;
+    opacity: 0%;
+    box-shadow:rgba(212, 212, 212, 0.9) 0px 0px 10px 0.2px ;
+    background-color: white;
+    
+    
+    transition-duration: 0.3s;
+}
+
+.oneSubMenu2 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    width: 250px;
+    height: 31px;
+    /*padding: 4px 20px 4px 20px;*/
+
+}
+.oneSubMenu2-P{
+
+    font-size: 14px;
+    font-weight: 400px;
+    color: rgb(80 , 80 , 80);
+    transition-duration: 0.3s;
+    margin: 0px;
+}
+.oneSubMenu2:hover .oneSubMenu2-P {
+    color: rgb(164, 164, 164);
+    transition-duration: 0.3s;
+
+}
+
+
+
+
+.Right-buttons-DIv{
+    display: flex;
+    align-items: center;
+    gap: 31px;
+}
+.LanguageButton-Div{
+    width: 51px;
+    height: 33px;
+    
+}
+.LanguageButton{
+    width: 100%;
+    height: 100%;
+    background-color:rgb(108, 117, 125);
+    border: none;
+    border-radius: 5.25px;
+    color: rgb(255, 255, 255);
+
+    font-size: 14px;
+    font-weight: 400px;
+    cursor: pointer;
+}
+.SearchButton-Div {
+    width: auto;
+    height: auto;
+}
+.SearchButton {
+    width: 30px;
+    height: 37px;
+    padding: 0px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
