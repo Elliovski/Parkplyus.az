@@ -1,7 +1,114 @@
-.Sections-All-DIV{
-    background-color: rgb(137, 251, 251);
+.introduction-Section{
     width: 100%;
-    height: 100%;
+    height: 127px;
+    display: flex;
+    align-items: center;
+    background-color: rgb(247, 247, 247);
+    
+
+}
+.introduction-Section h1 ,
+.introduction-Section p {
+    margin-left: 10vi;
+}
+
+
+
+.Sections-All-DIV{
+
+    width: 100%;
+    
     display: grid;
-    grid-template-rows: 1fr 1fr;
+    grid-template-rows: auto 400px;
+}
+.one-section {
+    
+}
+.details-section {
+    min-height: 500px;
+}
+.details-section-All-DIV{
+    display: grid;
+    grid-template-columns: 0.4fr 0.6fr;
+    grid-template-rows: 567px;
+}
+.details-left-All{
+
+}
+.details-right-All{
+
+}
+
+
+
+.related-section{
+
+}
+.related-section-All-DIV{
+    display: grid;
+    
+    
+}
+.related-section-All-DIV-h1 {
+    border-bottom: solid rgb(176, 176, 176) 1.6px ;
+    display: grid;
+    justify-content: center;
+}
+
+.related-section-All-DIV-h1 h1 {
+    font-size: 18px;
+    font-weight: 600px;
+    justify-self: center;
+    margin: 10px 0px 3px 0px;
+    
+    
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.Mehsullar-grid-All-DIv {
+    margin-bottom: 30px;
+    margin-top: 20px;
+    margin-left: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+
+    align-self: center;
+    justify-self: start;
+    align-items: center;
+    justify-items: center;
+    
+    gap: 50px;
+    
+}
+
+.one-Grid-Mehsul-a{
+    padding: 15px;
+    width: 100%;
+    max-width: 265px;
+    height: 310px;
+    cursor: pointer;
+    border: solid rgb(233, 233, 233) 0.8px;
+}
+
+.one-Grid-Mehsul-a img{
+    width: 100%;
+    height: 208px;
+}
+.one-Grid-Mehsul-a p {
+    font-size: 18px;
+    font-weight: 400px;
+    margin-left: 10px;
 }

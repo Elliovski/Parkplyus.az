@@ -9,8 +9,9 @@ body {
 }
 main {
     
-    height: 1000px;
-    background-color: antiquewhite;
+    display: grid;
+    grid-template-columns: 0.8fr;
+    justify-content: center;
     
 }
 a {

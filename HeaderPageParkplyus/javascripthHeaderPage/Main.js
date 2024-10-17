@@ -7,14 +7,6 @@ export let tapTopHtml = ``;
 
 
 
-
-
-
-
-
-
-
-
 export function renderMain(){
     
 
@@ -205,11 +197,13 @@ function oneGridMehsulaClick (){
             console.log("wantedId4")
             console.log(wantedId4)
             wantedIdImages = Object.values(datawithNoNamsOr[wantedId][wantedId2][wantedId3][wantedId4].images)
+            
             console.log(wantedIdImages)
-            console.log("aaaaaaaaaaaaaaaaaaaaaaaa")
+            
             
             
             window.open('/ProductPage/ProductPage.html','_blank')
+            saveToStaregeHeaderPage()
 
 
 

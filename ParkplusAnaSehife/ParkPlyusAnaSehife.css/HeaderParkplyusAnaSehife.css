@@ -212,6 +212,7 @@ HEADER {
     cursor: pointer;
 }
 .SearchButton-Div {
+    position: relative;
     width: auto;
     height: auto;
 }
@@ -222,4 +223,59 @@ HEADER {
     background: none;
     border: none;
     cursor: pointer;
+}
+.SearchButtonDown ,
+.SearchButtonDown img {
+    width: 20px;
+    height: 23px;
+    padding: 0px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.SearchInput {
+    position: absolute;
+    
+    width: 290px;
+    height: 41px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: solid rgb(21, 13, 70) 1px;
+    top: 40px;
+    left: -123px;
+    z-index: 3;
+}
+.SearchInput::-webkit-search-cancel-button{
+    display: none;
+}
+
+.SearchInput:focus{
+    
+    outline: none;
+    
+}
+
+
+
+.SearchButtonOfInput ,
+.SearchButtonOfInput:focus,
+.SearchButtonOfInput img {
+    width: 20px;
+    height: 23px;
+    padding: 0px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    bottom: 20px;
+}
+
+.SearchButtonOfInput {
+    position: relative;
+}
+.SearchButtonOfInput img {
+    z-index: 4;
+    position: absolute;
+    right: -100px;
+    bottom: -70px;
 }
