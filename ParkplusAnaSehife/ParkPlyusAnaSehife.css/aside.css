@@ -1,3 +1,6 @@
+
+
+
 aside {
     position: fixed;
     top: 0px;
@@ -6,10 +9,129 @@ aside {
     left: 0px;
     background-color: rgba(0, 0, 0, 0.7);
     z-index: 4;
-    
 }
+@media (min-width: 948px){
+    aside {width: 0px;}
+}
+
 .aside-All-DIV {
     background-color: black;
-    height: 100%;
+    height: 633px;
     width: 50%;
+    display: grid;
+    grid-template-rows: 109px 1fr 0.55fr ;
+    scrollbar-width: 0px;
+    scrollbar-width: 0px;
+    scrollbar-width: none;
+    -webkit-overflow-style:  none ;
+    scroll-padding: 0px;
+    overflow-y: auto;
+}
+.aside-All-DIV::-webkit-scrollbar {display: none;}
+.X-icon-DIV {
+    display: flex;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.X-icon-img-div img{
+
+    border-radius: 100%;
+    background-color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    margin-left: 25px;
+}
+.Aside-SubMenu-All-DIV {
+    background-color: black;
+
+}
+.One-aside-Button-Div {
+    border-top: solid rgb(52, 53, 53) 0.8px;
+    color: rgb(255, 255, 255);
+    height: 44px;
+    font-size: 16px;
+    margin-right: 10px;
+    margin-left: 10px;
+    
+}
+
+
+.one-downward-aside-button{
+    
+}
+
+
+
+.hidden-overflow {
+    overflow: hidden;
+}
+.visible-overflow{
+    overflow: visible;
+    
+}
+
+
+.aside-button-p-Div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.aside-button-p {
+    cursor: pointer;
+}
+.chewron-down-button-DIv{
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.Aside-SubMenu-Div-All{
+    height: auto;    
+}
+
+.one-aside-submenu1-Div{
+    border-top: solid rgb(52, 53, 53) 0.8px;
+    color: rgb(255, 255, 255);
+    height: 44px;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.one-aside-submenu1-p-Div{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+
+}
+.one-aside-submenu2-Div-All{
+    display: block;
+    
+}
+.one-aside-submenu2-Div {
+    border-top: solid rgb(52, 53, 53) 0.8px;
+    color: rgb(255, 255, 255);
+    height: 44px;
+    font-size: 16px;
+    margin-left: 20px;
+}
+.one-aside-submenu2-p{
+    cursor: pointer;
+    display: inline-block;
+}
+
+
+.Aside-Searchbar-DIV {
+    background-color: aqua;
+    height: 300px;   
+}
+
+.width0 {
+    width: 0px;
+    visibility: hidden;
+}
+
+.heigth-auto{
+    height: auto;
+    transition: 1s;
 }
