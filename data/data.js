@@ -34,18 +34,6 @@ export  let allItemsData = {
         images : {
         img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
         img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
-
-
-
-
-
-
-
-
-
-
-
-
         },
         img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
         img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
@@ -322,16 +310,6 @@ export  let allItemsData = {
                         img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
                         img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
                         img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
-
-
-
-
-
-
-
-
-
-
 
         },
         img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",

@@ -1,6 +1,7 @@
 import { headerJavascripth } from "./header.js";
+import { allItemsFunctions } from "./items.js";
 headerJavascripth()
-
+allItemsFunctions()
     
 function handleScreenSizeChange(event) {
     if (event.matches) {

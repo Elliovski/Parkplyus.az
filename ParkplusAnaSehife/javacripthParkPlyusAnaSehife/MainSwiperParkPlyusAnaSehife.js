@@ -40,7 +40,8 @@ var swiper = new Swiper(".mySwiper", {
 
   });
 var HellSwiper = new Swiper(".Hell-mySwiper", {
-    slidesPerView: 4,
+    
+    slidesPerGroup : 1,
     spaceBetween: 30,
     loop: true,
     pagination: {

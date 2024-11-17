@@ -1,4 +1,4 @@
-import { data,  } from "../data/data.js"
+import { data, allItemsData  } from "../data/data.js"
 import { datawithNoNamsOr } from "../data/datawithnoname.js";
 
 export let MehsullarHtml = ``;
@@ -196,7 +196,14 @@ function oneGridMehsulaClick (){
             wantedId4 = clas.id 
             console.log("wantedId4")
             console.log(wantedId4)
-            wantedIdImages = Object.values(datawithNoNamsOr[wantedId][wantedId2][wantedId3][wantedId4].images)
+            //wantedIdImages = Object.values(datawithNoNamsOr[wantedId][wantedId2][wantedId3][wantedId4].images)
+            console.log("wantedId4")
+            console.log(wantedId4)
+            console.log("allItemsData.wantedId4")
+            console.log(allItemsData[wantedId4])
+            console.log("allItemsData[wantedId4].images")
+            console.log(allItemsData[wantedId4.images])
+            wantedIdImages = Object.values(allItemsData[wantedId4].images)
             
             console.log(wantedIdImages)
             
