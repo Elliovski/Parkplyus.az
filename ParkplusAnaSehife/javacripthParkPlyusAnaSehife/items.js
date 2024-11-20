@@ -1,4 +1,5 @@
-import { allItemsData , data } from "../../HeaderPageParkplyus/data/data.js";
+import { allItemsData , data , XeberLerData } from "../../data/data.js";
+import { allMehsullarData } from "../../data/data.js";
 import { datawithNoNamsOr } from "../../HeaderPageParkplyus/data/datawithnoname.js";
 
 
@@ -13,6 +14,11 @@ function saveToStaregeHeaderPage(){
     localStorage.setItem('wantedId2', JSON.stringify(wantedId2));
     localStorage.setItem('wantedId3', JSON.stringify(wantedId3));
     localStorage.setItem('wantedId4', JSON.stringify(wantedId4));
+    //About Xeberler
+    localStorage.setItem('Xeber', JSON.stringify(Xeber));
+    localStorage.setItem('shortIntroductionOfXeber', JSON.stringify(shortIntroductionOfXeber));
+    localStorage.setItem('longIntroductionOfXeber', JSON.stringify(longIntroductionOfXeber));
+    localStorage.setItem('imgOfXeber', JSON.stringify(imgOfXeber));
 
    }
 
@@ -26,6 +32,11 @@ let wantedIdTapCategory = JSON.parse(localStorage.getItem('wantedIdTapCategory')
 let wantedIdSubCategory = JSON.parse(localStorage.getItem('wantedIdSubCategory'));
 let wantedIdMehsullarGrid = JSON.parse(localStorage.getItem('wantedIdMehsullarGrid'));
 let wantedIdImages = JSON.parse(localStorage.getItem('wantedIdImages'));
+//About Xeberler
+let Xeber = JSON.parse(localStorage.getItem('Xeber'));
+let shortIntroductionOfXeber = JSON.parse(localStorage.getItem('shortIntroductionOfXeber'));
+let longIntroductionOfXeber = JSON.parse(localStorage.getItem('longIntroductionOfXeber'));
+let imgOfXeber = JSON.parse(localStorage.getItem('imgOfXeber'));
 
 
 export function allItemsFunctions (){
@@ -37,6 +48,8 @@ function oneGridMehsulaClick (){
             
             
             let wantedItem = allItemsData[clas.id]
+            console.log("wantedItem")
+            console.log(wantedItem)
             wantedId = wantedItem.pOfOneMiddleButton
             wantedId2 = wantedItem.oneSubMenu1
             wantedId3 = wantedItem.oneSubMenu2
@@ -61,6 +74,62 @@ function oneGridMehsulaClick (){
     })
     
 }
+function dahaCoxGosterButton(){
+    document.querySelector('.DahaCoxGosterButton-js').addEventListener('click' , () => {
+        if (document.querySelector('.Mehsullar-grid-All-DIv').classList.contains("OverFlowHidden")){
+            document.querySelector('.Mehsullar-grid-All-DIv').classList.replace("OverFlowHidden" , "HeigthAuto")
+            document.querySelector('.DahaCoxGosterButton-js').innerHTML = "DAHA AZ GOSTER"
+        }
+        else {
+            document.querySelector('.Mehsullar-grid-All-DIv').classList.replace("HeigthAuto" , "OverFlowHidden")
+            document.querySelector('.DahaCoxGosterButton-js').innerHTML = "DAHA COX GOSTER"
+        }
+    })
+}
+function renderAllMehsullar (){
+    let html = ``
+    let MehsullarKeys = Object.keys(allMehsullarData)
+    console.log("MehsullarKeys")
+    console.log(MehsullarKeys)
+    let RandomizedKeys = MehsullarKeys.sort(() => Math.random() - 0.5)
+    console.log("RandomizedKeys")
+    console.log(RandomizedKeys)
+    
+    
+    for (let i = 0 ; i < 7 ; i++ ){
+        console.log(RandomizedKeys[i])
+        let wantedMehsul = allItemsData[RandomizedKeys[i]]
+        html += `
+            <a class="one-Grid-Mehsul-a one-Grid-Mehsul-a-js" id="${wantedMehsul.id}">
+        <img src="${wantedMehsul.img}" alt="">
+        <p>${wantedMehsul.name}</p>
+            </a>
+        `
+        
+    }
+    document.querySelector('.Mehsullar-grid-All-DIv').innerHTML = html
+
+}
+function OneXeberClick (){
+    document.querySelectorAll(".oneXeber-DIv-js").forEach(xeberClas => {
+        xeberClas.addEventListener("click" , () => {
+            
+            console.log(Xeber)
+        
+
+        Xeber = XeberLerData[xeberClas.id]
+        shortIntroductionOfXeber = Xeber.shortIntroduction
+        longIntroductionOfXeber = Xeber.longIntroduction
+        imgOfXeber = Xeber.img
+        saveToStaregeHeaderPage()
+        window.open('/XeberlerDetailed/DetailedXeberler.html', '_blank')
+    })
+})
+}
+
+OneXeberClick()
+renderAllMehsullar()
+dahaCoxGosterButton()
 oneGridMehsulaClick()
 
 }

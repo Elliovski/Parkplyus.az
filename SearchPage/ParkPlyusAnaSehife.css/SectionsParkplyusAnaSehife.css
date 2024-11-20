@@ -1,19 +1,3 @@
-.introduction-Section{
-    width: 100%;
-    height: 127px;
-    display: flex;
-    align-items: center;
-    background-color: rgb(247, 247, 247);
-    
-
-}
-.introduction-Section h1 ,
-.introduction-Section p {
-    margin-left: 10vi;
-}
-
-
-
 .Sections-All-DIV{
     display: grid;
     justify-items: center;
@@ -28,7 +12,7 @@
     justify-items: center;
     align-content: start;
     padding-top: 20px;
-    
+    border: solid 1px;
     
     z-index: 3;
 }
@@ -99,15 +83,44 @@
     margin-top: 80px;
     display: grid;
     gap: 20px 0px;
-    
+    width: 100%;
     margin-top: 90px;
 
 }
+
+
+
 .Mehsullar-grid-All-DIv {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-auto-rows: 311px;
     gap: 20px;
+    height: 311px;
+    width: 100%;
+    align-items: start;
+    
+    
+}
+@media (max-width: 1000px ) and (min-width : 520px){
+    .Mehsullar-grid-All-DIv {
+        grid-template-columns:  1fr 1fr;
+    }
+}
+
+@media (max-width: 520px) and (min-width : 0px){
+    .Mehsullar-grid-All-DIv {
+        grid-template-columns:  1fr;
+    }
+}
+
+
+
+.OverFlowHidden  {
+    overflow: hidden;
+
+}
+.HeigthAuto {
+    height: auto;
 }
 
 .one-Grid-Mehsul-a{   
@@ -324,7 +337,7 @@
 /*/////////////////*/
 
 .BizimleElaqe-Section{
-    
+    margin-top: 100px;
     height: 468px;
 }
 .BizimleElaqe-Section header {

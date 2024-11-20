@@ -531,3 +531,109 @@ export let XeberLerData = {
         img : "/Parkplyus images All/Xeberler Parkplyus/YENI IP INTERKOM GVS.jpg"
     },
 }
+
+export let allMehsullarData = {
+    DP300fDC16ZƏNGbLOKUaLL : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "INTERKOM",
+        oneSubMenu2 : "ANALOQiNTERKOM",
+        id : "DP300fDC16ZƏNGbLOKUaLL",
+        name : "DP300-FDC16 ZƏNG BLOKU",
+        images : {
+                        img :" /Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
+
+        },
+        img :" /Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
+        
+    },
+    DP500B2XXCAGRIBLOKUAILESIaLL : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "INTERKOM",
+        oneSubMenu2 : "ANALOQiNTERKOM",
+        id : "DP500B2XXCAGRIBLOKUAILESIaLL",
+        name : "DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ",
+        images : {
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
+        },
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
+        
+    },
+
+
+    a7dYÜMLÜKuZtANIMAxARICIsTANSIYAaOS01giCcaLL : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "INTERKOM",
+        oneSubMenu2 : "IPiNTERKOM",
+        id : "a7dYÜMLÜKuZtANIMAxARICIsTANSIYAaOS01giCcaLL",
+        name : "7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL",
+        images : {
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
+
+
+        },
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
+        
+    },
+    a8DYÜMLÜKuZtANIMAxARICIsTANSIYAhOS18 : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "INTERKOM",
+        oneSubMenu2 : "IPiNTERKOM",
+        id : "a8DYÜMLÜKuZtANIMAxARICIsTANSIYAhOS18",
+        name : "8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18",
+        images : {
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
+
+
+        },
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
+        
+    },
+
+
+    CDZbjpg : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "SARJcIHAZLARI",
+        oneSubMenu2 : "ACeVSHARJcIHAZI",
+        id : "CDZbjpg",
+        name : "CDZ-B.jpg",
+        images : {
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+
+        },
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+    },
+
+    CDZa : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "SARJcIHAZLARI",
+        oneSubMenu2 : "DCeVSHARJcIHAZI",
+        id : "CDZa",
+        name : "CDZ-A",
+        images : {
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
+
+
+        },
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
+    },
+    CDZn : {
+        pOfOneMiddleButton : "MEHSULLAR" ,
+        oneSubMenu1 : "SARJcIHAZLARI",
+        oneSubMenu2 : "DCeVSHARJcIHAZI",
+        id : "CDZn",
+        name : "CDZ-N",
+        images : {
+                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
+                        img :"/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
+
+        },
+        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
+        img :"/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
+    },
+}

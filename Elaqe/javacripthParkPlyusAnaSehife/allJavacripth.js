@@ -1,8 +1,11 @@
 import { headerJavascripth } from "./header.js";
 import { allItemsFunctions } from "./items.js";
-headerJavascripth()
+import { searchFunctionsAll } from "../../GeneralJavacripth/searchFunctions.js";
 allItemsFunctions()
-    
+headerJavascripth() 
+searchFunctionsAll()
+
+
 function handleScreenSizeChange(event) {
     if (event.matches) {
       // Window is smaller than 945px
@@ -200,7 +203,6 @@ function handleScreenSizeChange(event) {
       
     }
   }
-  
   const mediaQuery = window.matchMedia('(max-width: 945px)');
   
   // Add a listener for changes in the viewport size
@@ -208,4 +210,6 @@ function handleScreenSizeChange(event) {
   
   // Optionally, check the current size on load
   handleScreenSizeChange(mediaQuery);
+   
 
+  

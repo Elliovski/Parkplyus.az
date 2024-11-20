@@ -2,7 +2,6 @@ HEADER {
     z-index: 4;
     height: 80px;
 }
-
 .Header-fixed {
     position: fixed;
     top: 0px;
@@ -13,7 +12,6 @@ HEADER {
     width: 100%;
     z-index: 4;
     background-color: white;
-    
 }
 .All-butons-DIV {
     display: flex;
@@ -27,12 +25,10 @@ HEADER {
     width: 56px;
     height: 60px;
 }
-
 .Middle-buttons-DIv{
     display: grid;
     grid-auto-flow: column;
     gap: 0px;
-
 }
 .OneMiddleButton-Div{
     
@@ -216,20 +212,6 @@ HEADER {
     cursor: pointer;
 }
 .SearchButton-Div {
-    width: auto;
-    height: auto;
-}
-.SearchButton {
-    width: 30px;
-    height: 37px;
-    padding: 0px;
-    background: none;
-    border: none;
-    cursor: pointer;
-}
-
-
-.SearchButton-Div {
     position: relative;
     width: auto;
     height: auto;
@@ -296,4 +278,33 @@ HEADER {
     position: absolute;
     right: -100px;
     bottom: -70px;
+}
+
+.searchPage-SearchButton{
+    display: flex;
+    width: auto;
+    height: 45px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.searchPage-SearchButton input {
+    width: 182px;
+    height: 45px;
+    border: none;
+    padding-left: 10px;
+    border-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    
+    background-color: rgb(246, 246, 246);
+    
+}
+
+.searchPage-SearchButton button {
+    width: 45px;
+    height: 45px;
+    border: none;
+    background-color: rgb(176, 176, 176);
+    
+
 }

@@ -257,6 +257,8 @@ function oneTabsubcategoryDIvClick (){
             document.querySelector(".aside").classList.remove('width0')
         }
       })
+
+
       document.querySelectorAll(".one-downward-aside-button-js").forEach(button => {
         button.addEventListener("click" , () => {
             if (button.classList.contains("visible-overflow")){
@@ -276,6 +278,7 @@ function oneTabsubcategoryDIvClick (){
     
         })
     })
+
       document.querySelectorAll(".one-aside-submenu1-Div-js").forEach(button => {
           button.addEventListener("click" , () => {
             
@@ -297,9 +300,11 @@ function oneTabsubcategoryDIvClick (){
     
         })
     })
+
     document.querySelector('.aside-All-DIV').addEventListener('click' , () => {
         event.stopPropagation() 
     })
+
     document.querySelector(".aside").addEventListener('click' , () => {
         document.querySelector(".aside").classList.add('width0')
     })

@@ -1,9 +1,8 @@
 import { headerJavascripth } from "./header.js";
-import { allItemsFunctions, } from "./items.js";
-import { searchFunctionsAll } from "../../GeneralJavacripth/searchFunctions.js";
+import { allItemsFunctions } from "./items.js";
+
 headerJavascripth()
 allItemsFunctions()
-searchFunctionsAll()
 
 
 
@@ -176,14 +175,16 @@ function handleScreenSizeChange(event) {
                 </Div>
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                        
+                        <a href="/Xeberler/Xeberler.html">
                         <P class="pOfOneMiddleButton">XEBERLER</P>
+                        </a>
                     </Div>
                 </Div>
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                        
-                        <P class="pOfOneMiddleButton">ELAQE</P>
+                            <a href="/Elaqe/ELAQE.html">
+                                <P class="pOfOneMiddleButton">ELAQE</P>
+                            </a>
                     </Div>
                 </Div>
             </DIv>
@@ -212,4 +213,5 @@ function handleScreenSizeChange(event) {
   
   // Optionally, check the current size on load
   handleScreenSizeChange(mediaQuery);
+  
 

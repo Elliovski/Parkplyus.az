@@ -27,7 +27,7 @@ function saveToStaregeHeaderPage(){
 
 
 
-function onetabcategoryDIvClick (){
+   function onetabcategoryDIvClick (){
     document.querySelectorAll(".one-tab-category-DIv").forEach(oneClas => {
         oneClas.addEventListener("click" , () => {
 
@@ -124,14 +124,6 @@ function oneTabsubcategoryDIvClick (){
     })
 }
 
-
-
-
-
-
-
-
-    
 
     document.querySelectorAll('.oneSubMenu1Js').forEach(clas => {
         clas.addEventListener("click" , () => {

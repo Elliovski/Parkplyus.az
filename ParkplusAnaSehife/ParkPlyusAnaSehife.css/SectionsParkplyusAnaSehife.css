@@ -92,6 +92,16 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-auto-rows: 311px;
     gap: 20px;
+    height: 311px;
+    
+    
+}
+.OverFlowHidden  {
+    overflow: hidden;
+
+}
+.HeigthAuto {
+    height: auto;
 }
 
 .one-Grid-Mehsul-a{   
