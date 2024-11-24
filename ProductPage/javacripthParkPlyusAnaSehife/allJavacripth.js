@@ -234,7 +234,9 @@ function handleScreenSizeChange(event) {
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
                         
-                        <P class="pOfOneMiddleButton">ELAQE</P>
+                            <a href="/Elaqe/ELAQE.html">
+                                <P class="pOfOneMiddleButton">ELAQE</P>
+                            </a>
                     </Div>
                 </Div>
             </DIv>

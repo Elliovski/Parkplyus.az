@@ -57,11 +57,9 @@ export function renderMainSwiper(){
 
     function renderRelatedProducts (){
         let wantedIdMehsullarGrid = JSON.parse(localStorage.getItem('wantedIdMehsullarGrid'));
-        console.log("wantedIdMehsullarGrid")
-        console.log(wantedIdMehsullarGrid)
         let html = ``
         wantedIdMehsullarGrid.forEach( Mehsul => {
-            console.log(Mehsul)
+            
             html += `
             <a class="one-Grid-Mehsul-a" id = "${Mehsul.id}">
                 <img src="${Mehsul.img}" alt="">

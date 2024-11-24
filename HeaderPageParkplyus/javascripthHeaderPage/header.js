@@ -1,5 +1,5 @@
 import { tapTopHtml , tabSubcategoryHtml , MehsullarHtml } from "../../HeaderPageParkplyus/javascripthHeaderPage/Main.js";
-import { data } from "../../HeaderPageParkplyus/data/data.js";
+import { data } from "../../data/data.js";
 
 export function headerJavascripth(){
 function saveToStaregeHeaderPage(){
