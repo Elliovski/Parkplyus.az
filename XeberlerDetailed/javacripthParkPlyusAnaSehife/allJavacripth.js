@@ -1,4 +1,5 @@
-import { headerJavascripth } from "./header.js";
+
+import { headerJavascripth } from "../../GeneralJavacripth/header.js";
 import { allItemsFunctions } from "./items.js";
 headerJavascripth()
 allItemsFunctions()
@@ -173,7 +174,9 @@ function handleScreenSizeChange(event) {
                     <Div class="OneMiddleButton-Div">
                         <Div class="pOfOneMiddleButton-Div" >
                             <!--Azerbaijanca yaz-->
-                            <P class="pOfOneMiddleButton">ELAQE</P>
+                            <a href="/Elaqe/ELAQE.html">
+                                <P class="pOfOneMiddleButton">ELAQE</P>
+                            </a>
                         </Div>
                     </Div>
                 </DIv>

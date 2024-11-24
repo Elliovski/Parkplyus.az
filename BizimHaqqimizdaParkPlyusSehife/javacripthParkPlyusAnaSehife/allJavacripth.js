@@ -1,4 +1,5 @@
-import { headerJavascripth } from "./header.js";
+
+import { headerJavascripth } from "../../GeneralJavacripth/header.js";
 //import { allItemsFunctions } from "./items.js";
 import { searchFunctionsAll } from "../../GeneralJavacripth/searchFunctions.js";
 headerJavascripth()
