@@ -5,6 +5,7 @@ import { searchFunctionsAll } from "../../GeneralJavacripth/searchFunctions.js";
 headerJavascripth()
 allItemsFunctions()
 
+
 function handleScreenSizeChange(event) {
     if (event.matches) {
       // Window is smaller than 945px

@@ -47,29 +47,49 @@ export function renderMain(){
         rendertaptopAll()
         renderTabsubcategoryAll()
         renderMehsullargridAllDIv()
+        document.querySelector('.headers-All-h1').innerHTML = wantedId
+        document.querySelector('.headers-All-h2').innerHTML = `Esas sehife / ${wantedId}`
         
     
         function rendertaptopAll (){
+            
+
+
             wantedIdTapCategory.forEach(category => {
                 tapTopHtml += `
-                    <DIv class="one-tab-category-DIv" id = "${category}">
+                    <DIv class="one-tab-category-DIv ${category}" id = "${category}">
                         <p class="tab-category-p">${(category.replace(/([A-Z])([a-z])/g, '$1 $2')).toUpperCase()}</p>
                     </DIv>`
             })
             document.querySelector('.tap-top-All').innerHTML = tapTopHtml
+            document.querySelectorAll('.one-tab-category-DIv').forEach(category => {
+                if (category.classList.contains(wantedId2)){
+                    category.classList.add('selectedOneSubMenu1')
+
+                }
+            })
             saveToStaregeHeaderPage()
         }
+
         function renderTabsubcategoryAll (){
             wantedIdSubCategory.forEach(category => {
                 tabSubcategoryHtml += `
-                <DIv class="one-Tab-subcategoryDIv" id = "${category}">
+                <DIv class="one-Tab-subcategoryDIv ${category}" id = "${category}">
                 ${category.replace(/([A-Z])([a-z])/g, '$1 $2').toUpperCase()}
                 </DIv>`})
     
-                console.log(tabSubcategoryHtml)
+                
                 document.querySelector('.Tab-subcategory-All').innerHTML = tabSubcategoryHtml        
+
+                document.querySelectorAll('.one-Tab-subcategoryDIv').forEach(category => {
+                    if (category.classList.contains(wantedId3)){
+                        category.classList.add('selectedOneSubMenu1')
+    
+                    }
+                })
                 saveToStaregeHeaderPage()
         }
+
         function renderMehsullargridAllDIv (){
             wantedIdMehsullarGrid.forEach(mehsul => {                
                 MehsullarHtml += `
@@ -96,41 +116,39 @@ export function renderMain(){
     
                 document.querySelectorAll(".one-tab-category-DIv").forEach(div => {
                     if (div.id === oneClas.id){
-                        console.log(`div.classList.add("selectedOne-Tab-subcategoryDIv")`)
+                        
                         div.classList.add("selectedOneSubMenu1")
                         
                     }})
                     
                     let clas ;
-                    console.log(`document.querySelectorAll(".oneSubMenu1")`)
-                    console.log(document.querySelectorAll(".oneSubMenu1"))
 
                     document.querySelectorAll(".oneSubMenu1Js") .forEach(oneSubMenu1 => {
                     
                     if (oneClas.id == oneSubMenu1.id){
-                        console.log("oneSubMenu1")
-                        console.log(oneSubMenu1)
+                        
+                        
                         clas = oneSubMenu1
                     }
                 })
     
-                    console.log("clas")
-                    console.log(clas)
-                    console.log(2)
+                    
+                    
+                    
                     wantedId = clas.getAttribute("data-second-id")
                     wantedId2 = clas.id
                     wantedId3 = clas.getAttribute("data-third-id")
         
         
                     wantedIdTapCategory = Object.keys(data[wantedId])
-                    console.log("wantedIdTapCategory")
-                    console.log(wantedIdTapCategory)
+                    
+                    
                     wantedIdSubCategory = Object.keys(data[wantedId][wantedId2])
-                    console.log("wantedIdSubCategory")
-                    console.log(wantedIdSubCategory)
+                    
+                    
                     wantedIdMehsullarGrid = Object.values(data[wantedId][wantedId2][wantedId3])
-                    console.log("wantedIdMehsullarGrid")
-                    console.log(wantedIdMehsullarGrid)
+                    
+                    
         
         
                     tapTopHtml = ``;
@@ -146,11 +164,11 @@ export function renderMain(){
                             div.classList.add("selectedOneSubMenu1")
                         }})
         
-                    console.log(clas.getAttribute("data-third-id"))
+                    
         
                     document.querySelectorAll(".one-Tab-subcategoryDIv").forEach(div => {
                         if (div.id === clas.getAttribute("data-third-id")){
-                            console.log(`div.classList.add("selectedOne-Tab-subcategoryDIv")`)
+                            
                             div.classList.add("selectedOne-Tab-subcategoryDIv")
                         }})
                     
@@ -170,10 +188,10 @@ export function renderMain(){
         document.querySelectorAll(".one-Tab-subcategoryDIv").forEach(clas => {
             clas.addEventListener("click" , () => {
                 wantedId3 = clas.id
-                console.log(clas)
-                console.log(5)
-                console.log("wantedId3")
-                console.log(wantedId3)
+                
+                
+                
+                
     
                 wantedIdMehsullarGrid = Object.values(data[wantedId][wantedId2][wantedId3])
     
@@ -187,7 +205,7 @@ export function renderMain(){
     
                 document.querySelectorAll(".one-Tab-subcategoryDIv").forEach(div => {
                     if (div.id === clas.id){
-                        console.log(`div.classList.add("selectedOne-Tab-subcategoryDIv")`)
+                        
                         div.classList.add("selectedOne-Tab-subcategoryDIv")
                     }})
                     oneTabsubcategoryDIvClick()
@@ -204,22 +222,22 @@ export function renderMain(){
         document.querySelectorAll(".one-Grid-Mehsul-a").forEach(clas => {
             clas.addEventListener("click" , () => {
                 wantedId4 = clas.id 
-                console.log("wantedId4")
-                console.log(wantedId4)
+                
+                
                 //wantedIdImages = Object.values(datawithNoNamsOr[wantedId][wantedId2][wantedId3][wantedId4].images)
-                console.log("wantedId4")
-                console.log(wantedId4)
-                console.log("allItemsData.wantedId4")
-                console.log(allItemsData[wantedId4])
-                console.log("allItemsData[wantedId4].images")
-                console.log(allItemsData[wantedId4].images)
+                
+                
+                
+                
+                
+                
     
                 
                 wantedIdImages = Object.values(datawithNoNamsOr[wantedId][wantedId2][wantedId3][clas.id].images);
                 //Object.values(allItemsData[wantedId4].images)
                 
-                console.log("wantedIdImages")
-                console.log(wantedIdImages)
+                
+                
                 
                 
                 
@@ -244,21 +262,21 @@ export function renderMain(){
         document.querySelectorAll('.oneSubMenu1').forEach(clas => {
             clas.addEventListener("click" , () => {
                 
-                console.log(2)
+                
                 wantedId = clas.getAttribute("data-second-id")
                 wantedId2 = clas.id
                 wantedId3 = clas.getAttribute("data-third-id")
     
     
                 wantedIdTapCategory = Object.keys(data[wantedId])
-                console.log("wantedIdTapCategory")
-                console.log(wantedIdTapCategory)
+                
+                
                 wantedIdSubCategory = Object.keys(data[wantedId][wantedId2])
-                console.log("wantedIdSubCategory")
-                console.log(wantedIdSubCategory)
+                
+                
                 wantedIdMehsullarGrid = Object.values(data[wantedId][wantedId2][wantedId3])
-                console.log("wantedIdMehsullarGrid")
-                console.log(wantedIdMehsullarGrid)
+                
+                
     
     
                 tapTopHtml = ``;
@@ -277,11 +295,11 @@ export function renderMain(){
                         div.classList.add("selectedOneSubMenu1")
                     }})
     
-                console.log(clas.getAttribute("data-third-id"))
+                
     
                 document.querySelectorAll(".one-Tab-subcategoryDIv").forEach(div => {
                     if (div.id === clas.getAttribute("data-third-id")){
-                        console.log(`div.classList.add("selectedOne-Tab-subcategoryDIv")`)
+                        
                         div.classList.add("selectedOne-Tab-subcategoryDIv")
                     }})
                 
@@ -307,19 +325,19 @@ export function renderMain(){
                 wantedId2 = clas.getAttribute("data-third-id")
                 wantedId3 = clas.id
     
-                console.log(clas)
-                console.log(3)
+                
+                
                 
                 
                 wantedIdTapCategory = Object.keys(data[wantedId])
-                console.log("wantedIdTapCategory")
-                console.log(wantedIdTapCategory)
+                
+                
                 wantedIdSubCategory = Object.keys(data[wantedId][wantedId2])
-                console.log("wantedIdSubCategory")
-                console.log(wantedIdSubCategory)
+                
+                
                 wantedIdMehsullarGrid = Object.values(data[wantedId][wantedId2][wantedId3])
-                console.log("wantedIdMehsullarGrid")
-                console.log(wantedIdMehsullarGrid)
+                
+                
                 
                 tapTopHtml = ``;
                 tabSubcategoryHtml = ``;
@@ -336,7 +354,7 @@ export function renderMain(){
     
                 document.querySelectorAll(".one-Tab-subcategoryDIv").forEach(div => {
                     if (div.id === clas.id){
-                        console.log(`div.classList.add("selectedOne-Tab-subcategoryDIv")`)
+                        
                         div.classList.add("selectedOne-Tab-subcategoryDIv")
                     }})
     
@@ -365,13 +383,13 @@ export function renderMain(){
                     button.classList.remove("visible-overflow")
                     button.classList.add("hidden-overflow")
                     button.classList.remove("heigth-auto")
-                    console.log("hidden-overflow")
+                    
                     return(1)
                 }
                 if (".hidden-overflow") {
                     button.classList.replace("hidden-overflow" , "visible-overflow")
                     button.classList.add("heigth-auto")
-                    console.log("visible-overflow")
+                    
                     return(0)
         
                 }
@@ -387,13 +405,13 @@ export function renderMain(){
                     button.classList.remove("visible-overflow")
                     button.classList.add("hidden-overflow")
                     button.classList.remove("heigth-auto")
-                    console.log("hidden-overflow")
+                    
                     return(1)
                 }
                 if (".hidden-overflow") {
                     button.classList.replace("hidden-overflow" , "visible-overflow")
                     button.classList.add("heigth-auto")
-                    console.log("visible-overflow")
+                    
                     return(0)
                 }
                 
@@ -411,22 +429,20 @@ export function renderMain(){
         function handleScreenSizeChange(event) {
             if (event.matches) {
               // Window is smaller than 945px
-              console.log('Window is smaller than 945px');
+              
               document.querySelector(".Header-fixed").classList.add("Header-fixed-Hamburger")
               document.querySelector(".Header-fixed").innerHTML = `
                           <DIV class="HamburgerButton-DIV">
                     <img src="/Parkplyus images All/Parkplyus icons/hamburger-menu.svg" alt="" style="width: 30px; height: 30px;">
                 </DIV>`;
-                console.log(`document.querySelectorAll(".oneSubMenu1Js") `)
-                console.log(document.querySelectorAll(".oneSubMenu1Js") )
+                
+                
 
                 
                 
             } else {
                 // Window is larger than or equal to 945px
-                console.log('Window is larger than or equal to 945px');
-                console.log(`document.querySelectorAll(".oneSubMenu1") `)
-                console.log(document.querySelectorAll(".oneSubMenu1") )
+                
 
                 document.querySelector(".Header-fixed").classList.remove("Header-fixed-Hamburger")
                 document.querySelector(".Header-fixed").innerHTML = `

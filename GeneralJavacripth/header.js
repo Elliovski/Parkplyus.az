@@ -248,7 +248,66 @@ function oneTabsubcategoryDIvClick (){
 
 
 
+    function asideAllFunctions(){
 
+
+        document.querySelector(".aside").addEventListener('click' , () => {
+            document.querySelector(".aside").classList.add('width0')
+        })
+
+        document.querySelector('.aside-All-DIV').addEventListener('click' , () => {
+            event.stopPropagation() 
+        })
+        
+        document.addEventListener('DOMContentLoaded' , () => {
+            document.querySelectorAll(".one-aside-submenu1-Div-js").forEach(button => {
+                button.addEventListener("click" , () => {
+                  
+                  event.stopPropagation() 
+                  if (button.classList.contains("visible-overflow")){
+                      button.classList.remove("visible-overflow")
+                      button.classList.add("hidden-overflow")
+                      button.classList.remove("heigth-auto")
+                      return(1)
+                  }
+                  if (".hidden-overflow") {
+                      button.classList.replace("hidden-overflow" , "visible-overflow")
+                      button.classList.add("heigth-auto")
+                      return(0)
+                  }
+                  
+          
+              })
+          })
+    
+    
+          document.querySelectorAll(".one-downward-aside-button-js").forEach(button => {
+            button.addEventListener("click" , () => {
+                if (button.classList.contains("visible-overflow")){
+                    button.classList.remove("visible-overflow")
+                    button.classList.add("hidden-overflow")
+                    button.classList.remove("heigth-auto")
+                    
+                    return(1)
+                }
+                if (".hidden-overflow") {
+                    button.classList.replace("hidden-overflow" , "visible-overflow")
+                    button.classList.add("heigth-auto")
+                    return(0)
+        
+                }
+        
+              })
+          })
+
+        })
+
+
+
+
+
+
+    } 
 
 
 
@@ -256,53 +315,13 @@ function oneTabsubcategoryDIvClick (){
         if( document.querySelector('.Header-fixed').classList.contains("Header-fixed-Hamburger")) {
             document.querySelector(".aside").classList.remove('width0')
         }
+        asideAllFunctions()
       })
-      document.querySelectorAll(".one-downward-aside-button-js").forEach(button => {
-        button.addEventListener("click" , () => {
-            if (button.classList.contains("visible-overflow")){
-                button.classList.remove("visible-overflow")
-                button.classList.add("hidden-overflow")
-                button.classList.remove("heigth-auto")
-                console.log("hidden-overflow")
-                return(1)
-            }
-            if (".hidden-overflow") {
-                button.classList.replace("hidden-overflow" , "visible-overflow")
-                button.classList.add("heigth-auto")
-                console.log("visible-overflow")
-                return(0)
+      asideAllFunctions()
+
+
+     
     
-            }
-    
-        })
-    })
-      document.querySelectorAll(".one-aside-submenu1-Div-js").forEach(button => {
-          button.addEventListener("click" , () => {
-            
-            event.stopPropagation() 
-            if (button.classList.contains("visible-overflow")){
-                button.classList.remove("visible-overflow")
-                button.classList.add("hidden-overflow")
-                button.classList.remove("heigth-auto")
-                console.log("hidden-overflow")
-                return(1)
-            }
-            if (".hidden-overflow") {
-                button.classList.replace("hidden-overflow" , "visible-overflow")
-                button.classList.add("heigth-auto")
-                console.log("visible-overflow")
-                return(0)
-            }
-            
-    
-        })
-    })
-    document.querySelector('.aside-All-DIV').addEventListener('click' , () => {
-        event.stopPropagation() 
-    })
-    document.querySelector(".aside").addEventListener('click' , () => {
-        document.querySelector(".aside").classList.add('width0')
-    })
     
             
 }
