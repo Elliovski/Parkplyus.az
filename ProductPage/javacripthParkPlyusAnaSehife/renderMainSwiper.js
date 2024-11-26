@@ -1,4 +1,5 @@
 import { datawithNoNamsOr } from "../../HeaderPageParkplyus/data/datawithnoname.js"
+import { allItemsData } from "../../data/data.js";
 
 
 
@@ -33,7 +34,14 @@ export function renderMainSwiper(){
 
 
 
-    ;
+    console.log("wantedId")
+    console.log(wantedId)
+    console.log("wantedId2")
+    console.log(wantedId2)
+    console.log("wantedId3")
+    console.log(wantedId3)
+    console.log("wantedId4")
+    console.log(wantedId4)
     console.log("wantedIdImages")
     console.log(wantedIdImages)
     let html =``
@@ -55,6 +63,27 @@ export function renderMainSwiper(){
     document.querySelector(".swiper-wrapper-js1").innerHTML = html
     document.querySelector(".swiper-wrapper-js2").innerHTML = html2
 
+    let numberOfSlides = 0 
+    document.querySelectorAll('.swiper-slide').forEach(slide => {
+        numberOfSlides ++
+    })
+
+    document.querySelectorAll('.swiper-button').forEach(button => {
+        if( numberOfSlides == 2){
+        button.classList.add('hidden-swiper-button')
+        }
+        else {
+            button.classList.remove('hidden-swiper-button')
+        }
+    })
+    console.log("numberOfSlides")
+    console.log(numberOfSlides)
+
+
+
+
+
+
     function renderRelatedProducts (){
         let wantedIdMehsullarGrid = JSON.parse(localStorage.getItem('wantedIdMehsullarGrid'));
         let html = ``
@@ -75,6 +104,7 @@ export function renderMainSwiper(){
 
     renderRelatedProducts()
 
+
     document.querySelectorAll('.one-Grid-Mehsul-a').forEach((al) => {
         al.addEventListener('click' , () => {
             console.log(al.id)
@@ -85,5 +115,10 @@ export function renderMainSwiper(){
             window.open('/ProductPage/ProductPage.html')
         })
     })    
+
+    let wantedProduct = allItemsData[wantedId4]
+
+    document.querySelector('.headers-All-h1').innerHTML = wantedProduct.name
+    document.querySelector('.headers-All-h2').innerHTML = `Əsas səhifə / ${wantedId} / ${wantedProduct.name}`
 
 }

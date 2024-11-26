@@ -78,7 +78,9 @@
 }
 .swiper-button {
   background-color: #fff;
-  
-  color: #000;
+  color: black;
+}
+.hidden-swiper-button  {
+  visibility: hidden;
 }
 

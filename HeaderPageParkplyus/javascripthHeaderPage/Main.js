@@ -632,7 +632,7 @@ export function renderMain(){
           }
           
     
-          const mediaQuery = window.matchMedia('(max-width: 945px)');
+          const mediaQuery = window.matchMedia('(max-width: 1050px)');
       
       // Add a listener for changes in the viewport size
       mediaQuery.addListener(handleScreenSizeChange);

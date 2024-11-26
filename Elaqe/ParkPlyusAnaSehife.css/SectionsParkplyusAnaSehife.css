@@ -324,17 +324,18 @@
 /*/////////////////*/
 
 .BizimleElaqe-Section{
-    
+    width: 100%;
     height: 468px;
 }
 .BizimleElaqe-Section header {
     width: auto;
 }
 .BizimleElaqe-Img-and-info-DIV{
+    
     margin-top: 20px;
     display: grid;
     grid-auto-flow: row;
-
+    gap: 120px;
     grid-template-columns: 1fr 1fr;
 }
 
@@ -342,8 +343,8 @@
     width: 100%;
 }
 .BizimleElaqe-img-DIV img{
-    width: 100%;
-    height: 396px;
+    width: 80%;
+    height: 100%;
 }
 .BizimleElaqe-info-And-buton-DIv{
     display: flex;
