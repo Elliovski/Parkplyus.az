@@ -237,7 +237,7 @@ function oneTabsubcategoryDIvClick (){
             document.querySelector(".SearchButton-Div").innerHTML = `
                         <button class="SearchButtonDown"><img src="/Parkplyus images All/Parkplyus icons/ChewronDownIcon.png" alt=""></button>
                         <button class="SearchButtonOfInput"><img src="/Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
-                        <input class="SearchInput" type="search" placeholder="Axtaris">
+                        <input class="SearchInput SearchInput-js" type="search" placeholder="Axtaris">
             `
 
         }

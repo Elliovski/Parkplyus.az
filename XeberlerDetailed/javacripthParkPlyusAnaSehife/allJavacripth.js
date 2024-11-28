@@ -1,4 +1,4 @@
-
+import { searchFunctionsAll } from "../../GeneralJavacripth/searchFunctions.js";
 import { headerJavascripth } from "../../GeneralJavacripth/header.js";
 import { allItemsFunctions } from "./items.js";
 headerJavascripth()
@@ -205,3 +205,4 @@ function handleScreenSizeChange(event) {
   // Optionally, check the current size on load
   handleScreenSizeChange(mediaQuery);
 
+searchFunctionsAll()

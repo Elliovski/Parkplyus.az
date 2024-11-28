@@ -14,23 +14,24 @@ export function searchFunctionsAll(){
 
         document.querySelector("body").addEventListener("click" , () => {
             
-            document.querySelector('.SearchInput').addEventListener("click" , () => {
+            document.querySelector('.SearchInput-js').addEventListener("click" , () => {
                 console.log("event.stopPropagation()")
                 event.stopPropagation()
             })
-            document.querySelector('.SearchInput').addEventListener('keydown', (event) => {
+            document.querySelector('.SearchInput-js').addEventListener('keydown', (event) => {
                 if (event.key === 'Enter') {
                     console.log('Enter key was pressed!');
                     window.open('/SearchPage/SearchPage.html', '_blank')
                 }
             })
-            document.querySelector(".SearchInput").addEventListener("input", () => {
-                SearchInside = document.querySelector(".SearchInput").value
+            document.querySelector(".SearchInput-js").addEventListener("input", () => {
+                SearchInside = document.querySelector(".SearchInput-js").value
                 
                 console.log("SearchInside")
                 console.log(SearchInside)
                 saveTheSearch()
             })
+
         })
     }
 
