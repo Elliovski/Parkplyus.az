@@ -71,6 +71,21 @@ export function renderMain(){
             saveToStaregeHeaderPage()
         }
 
+        function addSelectedCategory(){
+            
+            document.querySelectorAll('.one-Tab-subcategoryDIv').forEach(category => {
+                category.classList.remove('selectedOneSubMenu1')
+                if (category.classList.contains(wantedId3)){
+                    category.classList.add('selectedOneSubMenu1')
+
+                }
+            });
+
+
+
+
+        }
+
         function renderTabsubcategoryAll (){
             wantedIdSubCategory.forEach(category => {
                 tabSubcategoryHtml += `
@@ -81,12 +96,7 @@ export function renderMain(){
                 
                 document.querySelector('.Tab-subcategory-All').innerHTML = tabSubcategoryHtml        
 
-                document.querySelectorAll('.one-Tab-subcategoryDIv').forEach(category => {
-                    if (category.classList.contains(wantedId3)){
-                        category.classList.add('selectedOneSubMenu1')
-    
-                    }
-                })
+                addSelectedCategory()
                 saveToStaregeHeaderPage()
         }
 
@@ -119,15 +129,10 @@ export function renderMain(){
                         
                         div.classList.add("selectedOneSubMenu1")
                         
-                    }})
-                    
+                    }})                
                     let clas ;
-
                     document.querySelectorAll(".oneSubMenu1Js") .forEach(oneSubMenu1 => {
-                    
                     if (oneClas.id == oneSubMenu1.id){
-                        
-                        
                         clas = oneSubMenu1
                     }
                 })
@@ -177,6 +182,7 @@ export function renderMain(){
                     onetabcategoryDIvClick()
                     oneGridMehsulaClick()
                     saveToStaregeHeaderPage()
+                    
     
             })
         })
@@ -199,11 +205,11 @@ export function renderMain(){
     
                 renderMehsullargridAllDIv()
                 
-                document.querySelectorAll('.selectedOne-Tab-subcategoryDIv').forEach(div => {
-                    div.classList.remove("selectedOne-Tab-subcategoryDIv")
-                })
+
+                
     
                 document.querySelectorAll(".one-Tab-subcategoryDIv").forEach(div => {
+                    div.classList.remove("selectedOne-Tab-subcategoryDIv")
                     if (div.id === clas.id){
                         
                         div.classList.add("selectedOne-Tab-subcategoryDIv")
@@ -212,6 +218,7 @@ export function renderMain(){
                     onetabcategoryDIvClick()
                     oneGridMehsulaClick()
                     saveToStaregeHeaderPage()
+                    addSelectedCategory()
             })
         })
     }
