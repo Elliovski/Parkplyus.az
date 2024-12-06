@@ -1,4 +1,4 @@
-//import { tapTopHtml , tabSubcategoryHtml , MehsullarHtml } from "../../HeaderPageParkplyus/javascripthHeaderPage/Main.js";
+
 import { data } from "../../data/data.js";
 
 
