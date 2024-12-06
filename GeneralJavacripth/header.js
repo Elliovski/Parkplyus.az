@@ -1,5 +1,5 @@
+import { data } from "../data/data.js";
 
-import { data } from "../../HeaderPageParkplyus/data/data.js";
 
 export function headerJavascripth(){
 function saveToStaregeHeaderPage(){
