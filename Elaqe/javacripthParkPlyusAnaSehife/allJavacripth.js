@@ -13,7 +13,7 @@ function handleScreenSizeChange(event) {
       document.querySelector(".Header-fixed").classList.add("Header-fixed-Hamburger")
       document.querySelector(".Header-fixed").innerHTML = `
                   <DIV class="HamburgerButton-DIV">
-            <img src="/Parkplyus images All/Parkplyus icons/hamburger-menu.svg" alt="" style="width: 30px; height: 30px;">
+            <img src="../Parkplyus images All/Parkplyus icons/hamburger-menu.svg" alt="" style="width: 30px; height: 30px;">
         </DIV>`
         
     } else {
@@ -26,7 +26,7 @@ function handleScreenSizeChange(event) {
 
             <DIv class="Left-buttons-DIv">
                 <a href="ParkplusAnaSehife.html" class="Ana-sehife-link">
-                    <img src="/../Parkplyus images All/Parkplyus icons/Parkplyus logo.png" alt="">
+                    <img src="../Parkplyus images All/Parkplyus icons/Parkplyus logo.png" alt="">
                 </a>
             </DIv>
             <DIv class="Middle-buttons-DIv">
@@ -191,7 +191,7 @@ function handleScreenSizeChange(event) {
                     <button class="LanguageButton">AZ 	&#128899;</button>
                 </Div>
                 <Div class="SearchButton-Div">
-                    <button class="SearchButton"><img src="/Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
+                    <button class="SearchButton"><img src="../Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
                     
                     
                 </Div>

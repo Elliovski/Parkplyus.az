@@ -6,8 +6,8 @@ export  let allItemsData = {
         id : "DP300fDC16ZƏNGbLOKUaLL",
         name : "DP300-FDC16 ZƏNG BLOKU",
         images : {
-                        img :" /Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
+                        img :" ../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
 
 
 
@@ -21,8 +21,8 @@ export  let allItemsData = {
 
 
         },
-        img :" /Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
+        img :" ../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
         
     },
     DP500B2XXCAGRIBLOKUAILESIaLL : {
@@ -32,8 +32,8 @@ export  let allItemsData = {
         id : "DP500B2XXCAGRIBLOKUAILESIaLL",
         name : "DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ",
         images : {
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
 
 
 
@@ -47,8 +47,8 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
         
     },
 
@@ -60,7 +60,7 @@ export  let allItemsData = {
         id : "a7dYÜMLÜKuZtANIMAxARICIsTANSIYAaOS01giCcaLL",
         name : "7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
 
 
 
@@ -75,7 +75,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
         
     },
     a8DYÜMLÜKuZtANIMAxARICIsTANSIYAhOS18 : {
@@ -85,7 +85,7 @@ export  let allItemsData = {
         id : "a8DYÜMLÜKuZtANIMAxARICIsTANSIYAhOS18",
         name : "8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
 
 
 
@@ -100,7 +100,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
         
     },
 
@@ -112,8 +112,8 @@ export  let allItemsData = {
         id : "CDZbjpg",
         name : "CDZ-B.jpg",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
 
 
 
@@ -127,8 +127,8 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
     },
 
     CDZa : {
@@ -138,7 +138,7 @@ export  let allItemsData = {
         id : "CDZa",
         name : "CDZ-A",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
 
 
 
@@ -153,7 +153,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
     },
     CDZn : {
         pOfOneMiddleButton : "MEHSULLAR" ,
@@ -162,8 +162,8 @@ export  let allItemsData = {
         id : "CDZn",
         name : "CDZ-N",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
-                        img :"/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
+                        img :"../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
 
 
 
@@ -177,8 +177,8 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
-        img :"/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
+        img :"../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
     },
 
     SmartBinaIdareEtmePlatformasi : {
@@ -188,7 +188,7 @@ export  let allItemsData = {
         id : "SmartBinaIdareEtmePlatformasi",
         name : "Smart bina idare etme platformasi",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
 
 
 
@@ -203,7 +203,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
+        img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
     },
     SmartDoorphone : {
         pOfOneMiddleButton : "HELL" ,
@@ -212,7 +212,7 @@ export  let allItemsData = {
         id : "SmartDoorphone",
         name : "Smart Doorphone",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
 
 
 
@@ -227,7 +227,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
+        img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
 
     },
 
@@ -239,7 +239,7 @@ export  let allItemsData = {
         id : "NezaretPlatformasi",
         name : "Nezaret Platformasi",
         images : {
-                        img :"/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
+                        img :"../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
 
 
 
@@ -254,7 +254,7 @@ export  let allItemsData = {
 
 
         },
-        img :"/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
+        img :"../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
 
     },
     WOWCharger : {
@@ -264,8 +264,8 @@ export  let allItemsData = {
         id : "WOWCharger",
         name : "WOW Charger",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
 
 
 
@@ -279,8 +279,8 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
-        img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
+        img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
+        img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
 
     },
 
@@ -291,7 +291,7 @@ export  let allItemsData = {
         id : "PayPark",
         name : "PayPark",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
 
 
 
@@ -306,7 +306,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
 
     },
 
@@ -319,9 +319,9 @@ export  let allItemsData = {
         id : "KRİSTALtOWERS",
         name : "KRİSTAL TOWERS",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
 
 
 
@@ -334,9 +334,9 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
 
     },
     MeridiaPremium : {
@@ -346,13 +346,13 @@ export  let allItemsData = {
         id : "MeridiaPremium",
         name : "Meridia Premium",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
 
 
 
@@ -361,13 +361,13 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
 
     },
     RoyalRezidens : {
@@ -377,8 +377,8 @@ export  let allItemsData = {
         id : "RoyalRezidens",
         name : "Royal Rezidens",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
 
 
 
@@ -392,8 +392,8 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
-        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
+        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
 
     },
 
@@ -406,7 +406,7 @@ export  let allItemsData = {
         id : "ServiceAz",
         name : "Service.az",
         images : {
-                        img : "/Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
 
 
 
@@ -421,7 +421,7 @@ export  let allItemsData = {
 
 
         },
-        img : "/Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
+        img : "../Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
 
     },
 }
@@ -436,8 +436,8 @@ export let data = {
                     id : "DP300fDC16ZƏNGbLOKUaLL",
                     name : "DP300-FDC16 ZƏNG BLOKU",
                     images : {
-                        img :" /Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
+                        img :" ../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
 
 
 
@@ -451,15 +451,15 @@ export let data = {
 
 
                     },
-                    img :" /Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
+                    img :" ../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU .jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP300-FDC16 ZƏNG BLOKU ALL/DP300-FDC16 ZƏNG BLOKU 2.jpg"
                 },
                 DP500B2XXCAGRIBLOKUAILESIaLL : { 
                     id : "DP500B2XXCAGRIBLOKUAILESIaLL",
                     name : "DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
 
 
 
@@ -473,8 +473,8 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png 2",
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/analoq interkom/DP500.B2-XX CAGRI BLOKU AILESI ALL/DP5000.В2-ХХ ÇAĞRI BLOKU AİLƏSİ.png",
                 },
             } , 
             IPiNTERKOM : { 
@@ -482,7 +482,7 @@ export let data = {
                     id : "a7dYÜMLÜKuZtANIMAxARICIsTANSIYAaOS01giCcaLL",
                     name : "7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
 
 
 
@@ -497,13 +497,13 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc ALL/7 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA A-OS01-G-ICcc.jpg"
                 },
                 a8DYÜMLÜKuZtANIMAxARICIsTANSIYAhOS18 : { 
                     id : "a8DYÜMLÜKuZtANIMAxARICIsTANSIYAhOS18",
                     name : "8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
 
 
 
@@ -518,7 +518,7 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/interkom images/IP INTERKOM/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18/8 DYÜMLÜK ÜZ TANIMA XARICI STANSIYA H-OS18.png"
                 }
             }
         },
@@ -530,8 +530,8 @@ export let data = {
                     id : "CDZbjpg",
                     name : "CDZ-B.jpg",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
 
 
 
@@ -545,15 +545,15 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
                 },
                 CDZbjpg : { 
                     id : "CDZbjpg",
                     name : "CDZ-B.jpg",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
 
 
 
@@ -567,8 +567,8 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/AC EV şarj cihazı/CDZ-B.jpg/CDZ-B 2.jpg"
                 },
             },
             DCeVSHARJcIHAZI : {
@@ -576,7 +576,7 @@ export let data = {
                     id : "CDZa",
                     name : "CDZ-A",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
 
 
 
@@ -591,14 +591,14 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-A/CDZ-A.jpg"
                 },
                 CDZn : {
                     id : "CDZn",
                     name : "CDZ-N",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
-                        img :"/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
+                        img :"../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
 
 
 
@@ -612,8 +612,8 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
-                    img :"/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg 2",
+                    img :"../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/DC EV şarj cihazı/CDZ-N/CDZ-N.jpg",
                 },
 
             },
@@ -622,7 +622,7 @@ export let data = {
                     id : "CDZp",
                     name : "CDZ-P",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/Wallbox EV Şarj cihazı/CDZ-P/CDZ-P.jpeg"
+                        img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/Wallbox EV Şarj cihazı/CDZ-P/CDZ-P.jpeg"
 
 
 
@@ -637,7 +637,7 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/Wallbox EV Şarj cihazı/CDZ-P/CDZ-P.jpeg"
+                    img : "../Parkplyus images All/Parkplyus product images/Mehsul/Sharj Cihazlari/Wallbox EV Şarj cihazı/CDZ-P/CDZ-P.jpeg"
                 } 
             }
         },
@@ -653,7 +653,7 @@ export let data = {
                     id : "SmartBinaIdareEtmePlatformasi",
                     name : "Smart bina idare etme platformasi",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
 
 
 
@@ -668,14 +668,14 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart bina idare etme platformasi/Smart Bina idare etme .jpg"
 
                 },
                 SmartDoorphone : {
                     id : "SmartDoorphone",
                     name : "Smart Doorphone",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
 
 
 
@@ -690,7 +690,7 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
+                    img : "../Parkplyus images All/Parkplyus product images/HELL/Interkom/Interkom ucun programlar/Smart DoorphoneAll/Smart Doorphone.png"
                 }
 
             }
@@ -701,7 +701,7 @@ export let data = {
                     id : "NezaretPlatformasi",
                     name : "Nezaret Platformasi",
                     images : {
-                        img :"/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
+                        img :"../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
 
 
 
@@ -716,15 +716,15 @@ export let data = {
 
 
                     },
-                    img :"/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
+                    img :"../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/Nezaret Platformasi/Nezaret Platformasi.jpeg"
 
                 },
                 WOWCharger : {
                     id : "WOWCharger",
                     name : "WOW Charger",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
 
 
 
@@ -738,8 +738,8 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
-                    img : "/Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
+                    img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER 2.jpeg",
+                    img : "../Parkplyus images All/Parkplyus product images/HELL/Sharj Sistemleri/Sharj sistemleri ucun heller/WOW Charger/WOW CHARGER.jpeg",
                 }
             }
         },
@@ -749,7 +749,7 @@ export let data = {
                     id : "PayPark",
                     name : "PayPark",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
 
 
 
@@ -764,7 +764,7 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/HELL/Odenis Sistemleri/Papypark/Paypark/Paypark.jpg"
                 }
             }
         }
@@ -776,9 +776,9 @@ export let data = {
                     id : "KRİSTALtOWERS",
                     name : "KRİSTAL TOWERS",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
 
 
 
@@ -791,22 +791,22 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 2.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/KRİSTAL TOWERS/KRİSTAL TOWERS 3.jpg"
 
                 },
                 MeridiaPremium : {
                     id : "MeridiaPremium",
                     name : "Meridia Premium",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
 
 
 
@@ -815,20 +815,20 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 2.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 3.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 4.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 5.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 6.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Meridia Premium/Meridia Premium 7.jpg",
                 },
                 RoyalRezidens : {
                     id : "RoyalRezidens",
                     name : "Royal Rezidens",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
-                        img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
+                        img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
 
 
 
@@ -842,8 +842,8 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
-                    img : "/Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens.jpg",
+                    img : "../Parkplyus images All/Parkplyus product images/LAYIHE/Intercom Layiheleri/Ip intercom/Royal Rezidens/Royal Rezidens 2.jpg"
 
                 }
             },
@@ -857,7 +857,7 @@ export let data = {
                     id : "ServiceAz",
                     name : "Service.az",
                     images : {
-                        img : "/Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
+                        img : "../Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
 
 
 
@@ -872,7 +872,7 @@ export let data = {
 
 
                     },
-                    img : "/Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
+                    img : "../Parkplyus images All/Parkplyus product images/XIDMET/Service Category/Service Subcategory/Service.az/Servize.az.jpg"
                 }
             }
         }

@@ -221,14 +221,14 @@ function oneTabsubcategoryDIvClick (){
         if (document.querySelector(".SearchButton-Div").classList.contains("SearchButton-Div-active")){
             document.querySelector(".SearchButton-Div").classList.remove("SearchButton-Div-active")
             document.querySelector(".SearchButton-Div").innerHTML = `
-            <button class="SearchButton"><img src="/Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
+            <button class="SearchButton"><img src="../Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
             `
         }
         else {
             document.querySelector(".SearchButton-Div").classList.add("SearchButton-Div-active")
             document.querySelector(".SearchButton-Div").innerHTML = `
-                        <button class="SearchButtonDown"><img src="/Parkplyus images All/Parkplyus icons/ChewronDownIcon.png" alt=""></button>
-                        <button class="SearchButtonOfInput"><img src="/Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
+                        <button class="SearchButtonDown"><img src="../Parkplyus images All/Parkplyus icons/ChewronDownIcon.png" alt=""></button>
+                        <button class="SearchButtonOfInput"><img src="../Parkplyus images All/Parkplyus icons/search.svg" alt=""></button>
                         <input class="SearchInput" type="search" placeholder="Axtaris">
             `
 
