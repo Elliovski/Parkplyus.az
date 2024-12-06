@@ -1,5 +1,5 @@
-import { tapTopHtml , tabSubcategoryHtml , MehsullarHtml } from "../../HeaderPageParkplyus/javascripthHeaderPage/Main.js";
-import { data } from "../../HeaderPageParkplyus/data/data.js";
+
+import { data } from "../../data/data";
 
 export function headerJavascripth(){
 function saveToStaregeHeaderPage(){
@@ -67,9 +67,7 @@ function onetabcategoryDIvClick (){
                 console.log(wantedIdMehsullarGrid)
     
     
-                tapTopHtml = ``;
-                tabSubcategoryHtml = ``;
-                MehsullarHtml = ``;
+
     
     
                 document.querySelectorAll(".one-tab-category-DIv").forEach(div => {
@@ -106,7 +104,7 @@ function oneTabsubcategoryDIvClick (){
 
             wantedIdMehsullarGrid = Object.values(data[wantedId][wantedId2][wantedId3])
 
-            MehsullarHtml = ``;
+
 
             
             

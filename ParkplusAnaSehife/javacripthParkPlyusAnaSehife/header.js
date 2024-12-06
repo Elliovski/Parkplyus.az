@@ -2,6 +2,7 @@ import { data } from "../../data/data.js";
 
 
 
+
 export function headerJavascripth(){
 function saveToStaregeHeaderPage(){
     localStorage.setItem('wantedIdTapCategory', JSON.stringify(wantedIdTapCategory));
@@ -68,9 +69,7 @@ function onetabcategoryDIvClick (){
                 console.log(wantedIdMehsullarGrid)
     
     
-                /*tapTopHtml = ``;
-                tabSubcategoryHtml = ``;
-                MehsullarHtml = ``;*/
+
     
     
                 document.querySelectorAll(".one-tab-category-DIv").forEach(div => {
@@ -107,7 +106,7 @@ function oneTabsubcategoryDIvClick (){
 
             wantedIdMehsullarGrid = Object.values(data[wantedId][wantedId2][wantedId3])
 
-            //MehsullarHtml = ``;
+            
 
             
             
