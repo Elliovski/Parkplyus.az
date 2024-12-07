@@ -65,7 +65,7 @@ function oneGridMehsulaClick (){
             
             
             
-            window.open('/ProductPage/ProductPage.html','_blank')
+            window.open('../ProductPage/ProductPage.html','_blank')
             saveToStaregeHeaderPage()
 
 
@@ -122,7 +122,7 @@ function OneXeberClick (){
         longIntroductionOfXeber = Xeber.longIntroduction
         imgOfXeber = Xeber.img
         saveToStaregeHeaderPage()
-        window.open('/XeberlerDetailed/DetailedXeberler.html', '_blank')
+        window.open('../XeberlerDetailed/DetailedXeberler.html', '_blank')
     })
 })
 }

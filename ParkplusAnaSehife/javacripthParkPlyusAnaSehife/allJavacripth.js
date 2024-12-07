@@ -51,18 +51,18 @@ function handleScreenSizeChange(event) {
                         <P class="pOfOneMiddleButton" >MEHSUL &#65088;</P>
 
                         
-                        <Div onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All" >
+                        <Div onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All" >
 
                             
                             <div class="oneSubMenu1 oneSubMenu1Js" id = "INTERKOM" data-second-id="MEHSULLAR" data-third-id="ANALOQiNTERKOM">
                                 <div class="oneSubMenu1-P-div" >
                                     <a class="oneSubMenu1-P">INTERKOM &#65088;</a>
                                 </div>
-                                <div class="SubMenu2All" id="ANALOQ INTERKOM" onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="ANALOQiNTERKOM" data-second-id="MEHSULLAR" data-third-id="INTERKOM">
+                                <div class="SubMenu2All" id="ANALOQ INTERKOM" onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="ANALOQiNTERKOM" data-second-id="MEHSULLAR" data-third-id="INTERKOM">
                                         <p class="oneSubMenu2-P">ANALOQ INTERKOM</p>
                                     </a>
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="IPiNTERKOM" data-second-id="MEHSULLAR" data-third-id="INTERKOM">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="IPiNTERKOM" data-second-id="MEHSULLAR" data-third-id="INTERKOM">
                                         <p class="oneSubMenu2-P">IP INTERKOM</p>
                                     </a>
                                 </div>
@@ -72,13 +72,13 @@ function handleScreenSizeChange(event) {
                                     <a class="oneSubMenu1-P">SHARJ CIHAZLARI &#65088;</a>
                                 </div>
                                 <div class="SubMenu2All" id="ACeVSHARJcIHAZI">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="ACeVSHARJcIHAZI" data-second-id="MEHSULLAR" data-third-id="SARJcIHAZLARI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="ACeVSHARJcIHAZI" data-second-id="MEHSULLAR" data-third-id="SARJcIHAZLARI">
                                         <p class="oneSubMenu2-P">AC EVSHARJ CIHAZI</p>
                                     </a>
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="DCeVSHARJcIHAZI" data-second-id="MEHSULLAR" data-third-id="SARJcIHAZLARI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="DCeVSHARJcIHAZI" data-second-id="MEHSULLAR" data-third-id="SARJcIHAZLARI">
                                         <p class="oneSubMenu2-P">DC EVSHARJ CIHAZI</p>
                                     </a>
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="WALLBOXeVSHARJcIHAZI" data-second-id="MEHSULLAR" data-third-id="SARJcIHAZLARI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="WALLBOXeVSHARJcIHAZI" data-second-id="MEHSULLAR" data-third-id="SARJcIHAZLARI">
                                         <p class="oneSubMenu2-P">WALLBOX EVSHARJ CIHAZI</p>
                                     </a>
                                 </div>
@@ -97,13 +97,13 @@ function handleScreenSizeChange(event) {
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div DropdownMenu "  id = "HELL" >
                         <P class="pOfOneMiddleButton">HELL &#65088;</P>
-                        <Div onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All">
+                        <Div onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All">
                             <div class="oneSubMenu1 oneSubMenu1Js" id="INTERCOM" data-second-id="HELL" data-third-id="INTERKOMuCUNpROGRAMLAR">
                                 <div class="oneSubMenu1-P-div">
                                     <a class="oneSubMenu1-P">Intercom &#65088;</a>
                                 </div>
                                 <div class="SubMenu2All">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="INTERKOMuCUNpROGRAMLAR" data-second-id="HELL" data-third-id="INTERCOM">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="INTERKOMuCUNpROGRAMLAR" data-second-id="HELL" data-third-id="INTERCOM">
                                         <p class="oneSubMenu2-P">Intercom ucun programlar</p>
                                     </a>
                                 </div>
@@ -113,7 +113,7 @@ function handleScreenSizeChange(event) {
                                     <a class="oneSubMenu1-P">Sharj sistemleri &#65088;</a>
                                 </div>
                                 <div class="SubMenu2All">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="SHARJsISTEMLERIuCUNhELLER" data-second-id="HELL" data-third-id="SHARJsISTEMLERI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="SHARJsISTEMLERIuCUNhELLER" data-second-id="HELL" data-third-id="SHARJsISTEMLERI">
                                         <p class="oneSubMenu2-P">Sharj sistemleri ucun heller </p>
                                     </a>
                                 </div>
@@ -123,7 +123,7 @@ function handleScreenSizeChange(event) {
                                     <a class="oneSubMenu1-P">Odenis Sistemleri &#65088;</a>
                                 </div>
                                 <div class="SubMenu2All">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="PAYPARK" data-second-id="HELL" data-third-id="ODENISsISTEMLERI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="PAYPARK" data-second-id="HELL" data-third-id="ODENISsISTEMLERI">
                                         <p class="oneSubMenu2-P">Pay Park</p>
                                     </a>
                                 </div>
@@ -137,16 +137,16 @@ function handleScreenSizeChange(event) {
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div DropdownMenu" id="LAYIHE" >
                         <P class="pOfOneMiddleButton">LAYIHE &#65088;</P>
-                        <Div onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All">
+                        <Div onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All">
                             <div class="oneSubMenu1 oneSubMenu1Js" id="INTERCOMlAYYIHELERI" data-second-id="LAYIHE" data-third-id="IPiNTERCOM">
                                 <div class="oneSubMenu1-P-div">
                                     <a class="oneSubMenu1-P">Interkom Layiheleri &#65088;</a>
                                 </div>
                                 <div class="SubMenu2All">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="IPiNTERCOM" data-second-id="LAYIHE" data-third-id="INTERCOMlAYYIHELERI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="IPiNTERCOM" data-second-id="LAYIHE" data-third-id="INTERCOMlAYYIHELERI">
                                         <p class="oneSubMenu2-P">Ip Intercom</p>
                                     </a>
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="ANALOQiNTERCOM" data-second-id="LAYIHE" data-third-id="INTERCOMlAYYIHELERI">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="ANALOQiNTERCOM" data-second-id="LAYIHE" data-third-id="INTERCOMlAYYIHELERI">
                                         <p class="oneSubMenu2-P">Analoq intercom</p>
                                     </a>
                                 </div>
@@ -158,13 +158,13 @@ function handleScreenSizeChange(event) {
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div DropdownMenu" id="XIDMET">
                         <P class="pOfOneMiddleButton">XIDMET &#65088;</P>
-                        <Div onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All">
+                        <Div onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="SubMenu1All">
                             <div class="oneSubMenu1 oneSubMenu1Js" id="SERVICEcATEGORY" data-second-id="XIDMET" data-third-id="SERVICEsUBCATEGORY">
                                 <div class="oneSubMenu1-P-div">
                                     <a class="oneSubMenu1-P">Service Category &#65088;</a>
                                 </div>
                                 <div class="SubMenu2All">
-                                    <a onclick="window.open('/HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="SERVICEsUBCATEGORY" data-second-id="XIDMET" data-third-id="SERVICEcATEGORY">
+                                    <a onclick="window.open('../HeaderPageParkplyus/HeaderPage.html', '_blank')" class="oneSubMenu2 oneSubMenu2Js" id="SERVICEsUBCATEGORY" data-second-id="XIDMET" data-third-id="SERVICEcATEGORY">
                                         <p class="oneSubMenu2-P">Subservice Category</p>
                                     </a>
                                 </div>
