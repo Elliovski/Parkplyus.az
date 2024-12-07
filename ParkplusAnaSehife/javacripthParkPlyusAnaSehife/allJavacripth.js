@@ -214,3 +214,5 @@ function handleScreenSizeChange(event) {
   handleScreenSizeChange(mediaQuery);
 
   searchFunctionsAll()
+
+  console.log("try to fix window lnks 4s")
