@@ -32,7 +32,7 @@ function handleScreenSizeChange(event) {
             <DIv class="Middle-buttons-DIv">
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                        <a href="../ParkplusAnaSehife/ParkplusAnaSehife.html">
+                        <a href="../ParkplusAnaSehife/index.html">
                             <P class="pOfOneMiddleButton SelectedMiddleButton">ANA SEHIFE</P>
                         </a>
                     </Div>
