@@ -215,4 +215,4 @@ function handleScreenSizeChange(event) {
 
   searchFunctionsAll()
 
-  console.log("try to fix window lnks 4s")
+  console.log("try to fix all of the javascripth window link and style link 5")

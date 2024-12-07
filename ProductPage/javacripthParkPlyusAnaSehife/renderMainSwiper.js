@@ -112,7 +112,7 @@ export function renderMainSwiper(){
             console.log("wantedIdImages2")
             console.log(wantedIdImages)
             saveToStaregeHeaderPage()
-            window.open('/ProductPage/ProductPage.html')
+            window.open('../ProductPage/ProductPage.html')
         })
     })    
 

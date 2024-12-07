@@ -248,7 +248,7 @@ export function renderMain(){
                 
                 
                 
-                window.open('/ProductPage/ProductPage.html','_blank')
+                window.open('../ProductPage/ProductPage.html','_blank')
                 saveToStaregeHeaderPage()
     
     

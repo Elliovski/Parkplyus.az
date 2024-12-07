@@ -40,7 +40,7 @@ export function allItemsFunctions (){
             longIntroductionOfXeber = Xeber.longIntroduction
             imgOfXeber = Xeber.img
             saveToStaregeHeaderPage()
-            window.open('/XeberlerDetailed/DetailedXeberler.html', '_blank')
+            window.open('../XeberlerDetailed/DetailedXeberler.html', '_blank')
         })
     })
 }
