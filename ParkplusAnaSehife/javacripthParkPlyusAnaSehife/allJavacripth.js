@@ -25,28 +25,28 @@ function handleScreenSizeChange(event) {
         <nav class="All-butons-DIV">
 
             <DIv class="Left-buttons-DIv">
-                <a href="ParkplusAnaSehife.html" class="Ana-sehife-link">
+                <a href="index.html" class="Ana-sehife-link">
                     <img src="../Parkplyus images All/Parkplyus icons/Parkplyus logo.png" alt="">
                 </a>
             </DIv>
             <DIv class="Middle-buttons-DIv">
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                        <a href="/ParkplusAnaSehife/ParkplusAnaSehife.html">
+                        <a href="../ParkplusAnaSehife/ParkplusAnaSehife.html">
                             <P class="pOfOneMiddleButton SelectedMiddleButton">ANA SEHIFE</P>
                         </a>
                     </Div>
                 </Div>
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                        <a href="/BizimHaqqimizdaParkPlyusSehife/BizimHaqqimizdaParkPlyusSehife.html">
+                        <a href="../BizimHaqqimizdaParkPlyusSehife/BizimHaqqimizdaParkPlyusSehife.html">
                             <P class="pOfOneMiddleButton">HAQQIMIZDA</P>
                         </a>
                     </Div>
                 </Div>
 
 
-                <Div class="OneMiddleButton-Div " href="/HeaderPageParkplyus/HeaderPage.html" >
+                <Div class="OneMiddleButton-Div " href="../HeaderPageParkplyus/HeaderPage.html" >
                     <Div class="pOfOneMiddleButton-Div DropdownMenu"  id = "MEHSULLAR"  >
                         <P class="pOfOneMiddleButton" >MEHSUL &#65088;</P>
 
@@ -174,14 +174,14 @@ function handleScreenSizeChange(event) {
                 </Div>
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                        <a href="/Xeberler/Xeberler.html">
+                        <a href="../Xeberler/Xeberler.html">
                         <P class="pOfOneMiddleButton">XEBERLER</P>
                         </a>
                     </Div>
                 </Div>
                 <Div class="OneMiddleButton-Div">
                     <Div class="pOfOneMiddleButton-Div" >
-                            <a href="/Elaqe/ELAQE.html">
+                            <a href="../Elaqe/ELAQE.html">
                                 <P class="pOfOneMiddleButton">ELAQE</P>
                             </a>
                     </Div>

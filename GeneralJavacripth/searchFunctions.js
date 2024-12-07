@@ -21,7 +21,7 @@ export function searchFunctionsAll(){
             document.querySelector('.SearchInput-js').addEventListener('keydown', (event) => {
                 if (event.key === 'Enter') {
                     console.log('Enter key was pressed!');
-                    window.open('/SearchPage/SearchPage.html', '_blank')
+                    window.open('../SearchPage/SearchPage.html', '_blank')
                 }
             })
             document.querySelector(".SearchInput-js").addEventListener("input", () => {
